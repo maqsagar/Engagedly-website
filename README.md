@@ -1,2 +1,2 @@
 # Engagedly-website
-<h1>Author<h1>: Maqsood Ali
+<h6>Author</h6>: Maqsood Ali
